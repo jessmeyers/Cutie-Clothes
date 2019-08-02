@@ -1,0 +1,60 @@
+header#page_header nav ul li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  float: left;
+  height: 30px;
+  line-height: 30px;
+  padding: 5px;
+  margin: 10px;
+  border-top-left-radius: 8px;
+  border-top-right: 8px;
+  background-color: #FFFFFF;
+  font-size: 20px;
+  color: #000000;
+  font-family: arial, verdana, sans-serif;
+}
+
+a:hover{
+  background-color: #A9A9A9;
+  font-family: arial, verdana, sans-serif;
+}
+
+body{
+  background-color:LightPink;
+
+}
+
+#CUTIECLOTHES{
+  font-family: Fantasy;
+  font-size: 50px;
+}
+
+#About{
+  font-family: Fantasy;
+  font-size: 20px;
+}
+
+#link{
+  display: block;
+  text-align: center;
+}
+
+#new{
+  font-family: Fantasy;
+  font-size: 20px;
+  display: block;
+  text-align: center;
+}
+
+#shop{
+  font-family: Fantasy;
+  font-size: 25px;
+}
+
+#cloth{
+  font-family: Fantasy;
+  font-size: 40px;
+}
